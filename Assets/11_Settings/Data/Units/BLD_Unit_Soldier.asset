@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885b075e2b7a5ba4690c670d6a1cda8f, type: 3}
+  m_Name: BLD_Unit_Soldier
+  m_EditorClassIdentifier: 
+  <BuildableType>k__BackingField: 101
+  <ObjectName>k__BackingField: Soldier
+  <Description>k__BackingField: Unit
+  <Cost>k__BackingField: 0
+  <BuildTime>k__BackingField: 5
+  <QueueSizeLimit>k__BackingField: 10
+  <GlobalBuildLimit>k__BackingField: -1
+  <UIImage>k__BackingField: {fileID: 21300000, guid: f249ed0a81ea7214d8c15050c2fa3243, type: 3}
